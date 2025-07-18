@@ -6,7 +6,6 @@ A cleanly-structured ASP.NET Core Web API implementing **JWT Authentication** us
 
 ## Project Structure (Clean Architecture)
 AuthWebAPI/
-│
 ├── Controllers/         # API controllers (entry point to the application)
 ├── Services/            # Business logic (e.g., AuthService)
 ├── Data/                # EF Core DbContext and database configuration
